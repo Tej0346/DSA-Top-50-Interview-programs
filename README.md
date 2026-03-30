@@ -19,10 +19,10 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 7. Cyclically Rotate an Array
 8. Kadane’s Algorithm (Largest Sum Contiguous Subarray)
 9. Find Duplicates in an Array
-10. Merge Two Sorted Arrays Without Extra Space
-11. Check if String is a Palindrome
-12. Find Duplicate Characters in a String
-13. Valid Anagram Check
+ 10. Merge Two Sorted Arrays Without Extra Space
+ 11. Check if String is a Palindrome
+ 12. Find Duplicate Characters in a String
+ 13. Valid Anagram Check
 
 # 2. Linked Lists
 14. Reverse a Linked List
