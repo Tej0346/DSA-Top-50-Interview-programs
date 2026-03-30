@@ -13,15 +13,24 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 1. Reverse an Array/String
 2. Maximum and Minimum of an Array
 3. K-th Largest/Smallest Element
-Sort 0s, 1s, and 2s (Dutch National Flag)
-Move Negative Elements to One Side
-Union and Intersection of Sorted Arrays
-Cyclically Rotate an Array
-Kadane’s Algorithm (Largest Sum Contiguous Subarray)
-Find Duplicates in an Array
-Merge Two Sorted Arrays Without Extra Space
-Check if String is a Palindrome
-Find Duplicate Characters in a String
-Valid Anagram Check
+4. Sort 0s, 1s, and 2s (Dutch National Flag)
+5. Move Negative Elements to One Side
+6. Union and Intersection of Sorted Arrays
+7. Cyclically Rotate an Array
+8. Kadane’s Algorithm (Largest Sum Contiguous Subarray)
+9. Find Duplicates in an Array
+10. Merge Two Sorted Arrays Without Extra Space
+11. Check if String is a Palindrome
+12. Find Duplicate Characters in a String
+13. Valid Anagram Check
 
-2. Linked Lists
+# 2. Linked Lists
+14. Reverse a Linked List
+15. Detect a Loop/Cycle in a Linked List
+16. Find the Starting Point of the Loop
+17. Remove Duplicates from Sorted/Unsorted List
+18. Find the Middle of a Linked List
+19. Check if Linked List is a Palindrome
+20. Merge Two Sorted Linked Lists
+21. Intersection Point of Two Linked Lists
+22. Add Two Numbers Represented by Lists
