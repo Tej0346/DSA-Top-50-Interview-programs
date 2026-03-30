@@ -19,10 +19,10 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 7. Cyclically Rotate an Array
 8. Kadane’s Algorithm (Largest Sum Contiguous Subarray)
 9. Find Duplicates in an Array
- 10. Merge Two Sorted Arrays Without Extra Space
- 11. Check if String is a Palindrome
- 12. Find Duplicate Characters in a String
- 13. Valid Anagram Check
+10. Merge Two Sorted Arrays Without Extra Space
+11. Check if String is a Palindrome
+12. Find Duplicate Characters in a String
+13. Valid Anagram Check
 
 # 2. Linked Lists
 14. Reverse a Linked List
@@ -34,3 +34,43 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 20. Merge Two Sorted Linked Lists
 21. Intersection Point of Two Linked Lists
 22. Add Two Numbers Represented by Lists
+
+# 3. Stacks & Queues
+23. Implement Stack using Arrays/Linked List
+24. Implement Queue using Arrays/Linked List
+25. Balanced Parentheses Check
+26. Next Greater Element
+27. Reverse a Stack using Recursion
+28. Implement Stack using Two Queues
+    
+# 4. Trees & BST
+29. Binary Tree Level Order Traversal
+30. Inorder, Preorder, and Postorder (Recursive & Iterative)
+31. Height of a Binary Tree
+32. Diameter of a Binary Tree
+33. Mirror of a Binary Tree
+34. Check if a Tree is a BST
+35. Lowest Common Ancestor (LCA) in BST
+36. K-th Smallest Element in BST
+    
+# 5. Searching & Sorting
+37. Binary Search (Iterative & Recursive)
+38. Bubble Sort
+39. Selection Sort
+40. Insertion Sort
+41. Merge Sort
+42. Quick Sort
+43. Find Square Root using Binary Search
+
+# 6. Dynamic Programming & Recursion
+44. Fibonacci Series (Memoization vs. Iteration)
+45. Factorial Calculation
+46. 0/1 Knapsack Problem
+47. Longest Common Subsequence (LCS)
+48. Coin Change Problem
+49. Edit Distance
+
+# 7. Graphs & Bit Manipulation
+50. BFS and DFS for a Graph
+51. Count Set Bits in an Integer
+52. Find the Non-Repeating Element (XOR Logic)
