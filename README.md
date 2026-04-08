@@ -10,7 +10,7 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 * Topic-Wise Categorization: Problems organized from basic Arrays to advanced Dynamic Programming.
 # The Top 50 Programs
 # 1. Arrays & Strings
-  1.Reverse an Array/String [ [Python](./Reverse_an_Array-String/main.py) | [C](./Reverse_an_Array-String/main.c) | [C++](./Reverse_an_Array-String/main.cpp) | [Java](./Reverse_an_Array-String/Main.java) ]
+1. Reverse an Array/String [ [Python](./Reverse_an_Array-String/main.py) | [C](./Reverse_an_Array-String/main.c) | [C++](./Reverse_an_Array-String/main.cpp) | [Java](./Reverse_an_Array-String/Main.java) ]
 
 2. Maximum and Minimum of an Array [ [Python](./Maximum_and_Minimum_of_an_Array/main.py) | [C](./Maximum_and_Minimum_of_an_Array/main.c) | [C++](./Maximum_and_Minimum_of_an_Array/main.cpp) | [Java](./Maximum_and_Minimum_of_an_Array/Main.java) ]
 
