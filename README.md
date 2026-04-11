@@ -26,15 +26,15 @@ Let’s be real: Technical interviews can be a major hurdle when balancing class
 
 8. Kadane’s Algorithm [ [Python](./Kadane’s_Algorithm/main.py) | [C](./Kadane’s_Algorithm/main.c) | [C++](./Kadane’s_Algorithm/main.cpp) | [Java](./Kadane’s_Algorithm/Main.java) ]
    
-10. Find Duplicates [ [Python](./Find_Duplicates/main.py) | [C](./Find_Duplicates/main.c) | [C++](./Find_Duplicates/main.cpp) | [Java](./Find_Duplicates/Main.java) ]
+9. Find Duplicates [ [Python](./Find_Duplicates/main.py) | [C](./Find_Duplicates/main.c) | [C++](./Find_Duplicates/main.cpp) | [Java](./Find_Duplicates/Main.java) ]
     
-12. Merge Sorted Arrays [ [Python](./Merge_Sorted_Arrays/main.py) | [C](./Merge_Sorted_Arrays/main.c) | [C++](./Merge_Sorted_Arrays/main.cpp) | [Java](./Merge_Sorted_Arrays/Main.java) ]
+10. Merge Sorted Arrays [ [Python](./Merge_Sorted_Arrays/main.py) | [C](./Merge_Sorted_Arrays/main.c) | [C++](./Merge_Sorted_Arrays/main.cpp) | [Java](./Merge_Sorted_Arrays/Main.java) ]
     
-14. Palindrome Check [ [Python](./Palindrome_Check/main.py) | [C](./Palindrome_Check/main.c) | [C++](./Palindrome_Check/main.cpp) | [Java](./Palindrome_Check/Main.java) ]
+11. Palindrome Check [ [Python](./Palindrome_Check/main.py) | [C](./Palindrome_Check/main.c) | [C++](./Palindrome_Check/main.cpp) | [Java](./Palindrome_Check/Main.java) ]
     
-16. Duplicate Characters in String [ [Python](./Duplicate_Characters_in_String/main.py) | [C](./Duplicate_Characters_in_String/main.c) | [C++](./Duplicate_Characters_in_String/main.cpp) | [Java](./Duplicate_Characters_in_String/Main.java) ]
+12. Duplicate Characters in String [ [Python](./Duplicate_Characters_in_String/main.py) | [C](./Duplicate_Characters_in_String/main.c) | [C++](./Duplicate_Characters_in_String/main.cpp) | [Java](./Duplicate_Characters_in_String/Main.java) ]
     
-18. Valid Anagram Check [ [Python](./Valid_Anagram_Check/main.py) | [C](./Valid_Anagram_Check/main.c) | [C++](./Valid_Anagram_Check/main.cpp) | [Java](./Valid_Anagram_Check/Main.java) ]
+13. Valid Anagram Check [ [Python](./Valid_Anagram_Check/main.py) | [C](./Valid_Anagram_Check/main.c) | [C++](./Valid_Anagram_Check/main.cpp) | [Java](./Valid_Anagram_Check/Main.java) ]
 
 # 2. Linked Lists
 14. Reverse a Linked List [ Python | C | C++ | Java ]
